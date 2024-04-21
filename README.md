@@ -1,2 +1,2 @@
 # DisasmWinExe
-simpel code to disasseembly windows exe file using libdasm library
+simpel code to disassembly windows exe file using libdasm library
