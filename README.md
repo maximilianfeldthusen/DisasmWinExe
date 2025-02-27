@@ -1,5 +1,6 @@
+## Documentation
 
-# DisasmWinExe
+### DisasmWinExe
 
 The code is a simple C++ program that disassembles a Windows executable file (typically with a `.exe` extension) using the `libdasm` library, which is designed to disassemble machine code into human-readable assembly language. Let's break down the code step by step:
 
