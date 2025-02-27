@@ -102,3 +102,5 @@ The code is a simple C++ program that disassembles a Windows executable file (ty
 ### Summary
 This code is a skeleton for a disassembler using the `libdasm` library. It opens a specified executable file, reads its binary contents, initializes a disassembler, sets up an action list to handle instructions, and executes the disassembly. The actual implementation of how to handle instructions would need to be filled in the `my_actionlist` function. The program handles basic error checking for file operations and disassembler initialization.
 
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
